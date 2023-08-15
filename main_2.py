@@ -5,7 +5,7 @@ import json
 import os
 
 # Set the repository URL with credentials
-repository_url = "https://AkarisDimitry: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@github.com/AkarisDimitry/dummy-random-repo2.git"
+repository_url = f"https://AkarisDimitry:{token}@github.com/AkarisDimitry/dummy-random-repo2.git"
 
 # Set the repository path
 repo_path = "."
